@@ -7,5 +7,10 @@ ioie
 rewadi
 rabdi
 maggie
+<<<<<<< HEAD
 magento
 justjelly
+=======
+malai
+milk
+>>>>>>> e391b7289a47d799d394ba21373426976279ff77
